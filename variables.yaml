@@ -1,0 +1,25 @@
+# Job
+datacenter:
+  - 'eu-west-2a'
+  - 'eu-west-2b'
+  - 'eu-west-2c'
+region: 'global'
+
+# Group
+count: 3
+
+
+# Artifact
+version: '1.5.5+ent'
+checksum: 'sha256:145e8608cd2ef0b0ea08d724e3659d251feaddc571caf2c0f190867ed16a8d87'
+
+# Resources
+cpu: 2000
+memory: 1024
+
+# Task
+
+# Template
+
+
+# Service
